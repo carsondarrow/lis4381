@@ -2,15 +2,19 @@
 
 # Course LIS4381
 
-## Your name
+## Carson Darrow
 
-### Class Number Requirements:
+### LIS4381 Requirements:
 
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+    - Install JDK
+    - Install Android Studio and create My First App
+    - Provide screenshots of installation 
+    - Create Bitbucket repo
+    - Complete Bitbucket tutorials (bitbucketstations and myteamquotes)
+    - Provide git command descriptions 
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 
