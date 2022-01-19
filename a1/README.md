@@ -17,7 +17,7 @@ Three Parts:
 
 #### README.md file should include the following items:
 
-* Screenshot of AMPPS Installation 
+* Screenshot of Apache Installation 
 * Screenshot of running java Hello
 * Screenshot of running Android Studio - My First App
 * git commands with short descriptions
