@@ -41,7 +41,7 @@ Three Parts:
 
 *Screenshot of PHP running http://localhost*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![AMPPS Installation Screenshot](img/php.png)
 
 *Screenshot of running java Hello*:
 
