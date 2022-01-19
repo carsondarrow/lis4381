@@ -39,14 +39,13 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of PHP running http://localhost*:
 
 ![AMPPS Installation Screenshot](img/ampps.png)
 
 *Screenshot of running java Hello*:
 
 ![JDK Installation Screenshot](img/jdk_install.png)
-/Users/carsondarrow/Pictures/Photos Library.photoslibrary/resources/derivatives/2/27B81483-F2E9-4046-918F-57D522397123_1_105_c.jpeg
 
 *Screenshot of Android Studio - My First App*:
 
