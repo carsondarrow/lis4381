@@ -39,9 +39,9 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of PHP running http://localhost*:
+*Screenshot of AMPPS running http://localhost*:
 
-![AMPPS Installation Screenshot](img/php.png)
+![AMPPS Installation Screenshot](img/ampps.png)
 
 *Screenshot of running java Hello*:
 
