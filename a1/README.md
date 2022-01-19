@@ -41,7 +41,8 @@ Three Parts:
 
 *Screenshot of Apache running http://localhost:8080/phpinfo.php*:
 
-![AMPPS Installation Screenshot](img/apache.png)
+![Apache Installation Screenshot](img/apache.png)
+![Apache Installation Screenshot](img/apache2.png)
 
 *Screenshot of running java Hello*:
 
