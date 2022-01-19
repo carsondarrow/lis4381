@@ -39,7 +39,7 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of Apache running http://localhost*:
+*Screenshot of Apache running http://localhost:8080/phpinfo.php*:
 
 ![AMPPS Installation Screenshot](img/apache.png)
 
