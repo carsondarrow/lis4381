@@ -27,9 +27,9 @@ Three Parts:
 > 
 > This is the second paragraph in the blockquote.
 >
-> #### Git commands w/short descriptions:
+> #### Git commands w/short :
 
-1. git init - gedhejbdd 
+1. git init -  
 2. git status -  
 3. git add -  
 4. git commit - 
