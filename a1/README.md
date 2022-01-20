@@ -27,15 +27,15 @@ Three Parts:
 > 
 > This is the second paragraph in the blockquote.
 >
-> #### Git commands w/short :
+> #### Git commands w/short Descriptions:
 
-1. git init -  
+1. git init -  Test
 2. git status -  
 3. git add -  
 4. git commit - 
 5. git push - 
 6. git pull - 
-7. 
+7. git version - 
 
 #### Assignment Screenshots:
 
