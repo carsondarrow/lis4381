@@ -35,7 +35,7 @@ Three Parts:
 4. git commit - Record changes to the repository
 5. git push - Update remote refs along with associated objects
 6. git pull - Fetch from and integrate with another repository or a local branch
-7. git-version - Display version information about Git 
+7. git-version - Display version information about Git
 
 #### Assignment Screenshots:
 
