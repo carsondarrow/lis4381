@@ -29,13 +29,13 @@ Three Parts:
 >
 > #### Git commands w/short descriptions:
 
-1. git init - 
-2. git status - 
-3. git add - 
-4. git commit - 
-5. git push - 
-6. git pull - 
-7. one additional git command 
+1. git init - Create an empty Git repository or reinitialize an existing one
+2. git status -  Show the working tree status
+3. git add -  Add file contents to the index
+4. git commit - Record changes to the repository
+5. git push - Update remote refs along with associated objects
+6. git pull - Fetch from and integrate with another repository or a local branch
+7. git-version - Display version information about Git 
 
 #### Assignment Screenshots:
 
