@@ -42,7 +42,7 @@ Three Parts:
 
 ![Android Studio Installation Screenshot](img/Even_or_Odd.png)
 
-*Screenshot of largestNumProgram - largestNum *:
+*Screenshot of largestNumProgram - largest_Num *:
 
 ![Android Studio Installation Screenshot](img/largestNum.png)
 
