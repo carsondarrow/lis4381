@@ -38,6 +38,20 @@ Three Parts:
 
 ![Android Studio Installation Screenshot](img/screen_2.png)
 
+*Screenshot of Even or Odd Program - Even_or_Odd *:
+
+![Android Studio Installation Screenshot](img/Even_or_Odd.png)
+
+*Screenshot of largestNumProgram - Even_or_Odd *:
+
+![Android Studio Installation Screenshot](img/largestNum.png)
+
+*Screenshot of Arrays Loops Program - arrays_loops *:
+
+![Android Studio Installation Screenshot](img/Even_or_Odd.png)
+
+
+
 
 #### Tutorial Links:
 
