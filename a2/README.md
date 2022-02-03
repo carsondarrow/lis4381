@@ -30,13 +30,15 @@ Three Parts:
 
 #### Assignment Screenshots:
 
+
+
 *Screenshot of Screen 1 running - Recipe App *:
+| Screen 1 Screenshot | Screen 2 Screenshot |
 
-![Screen 1 Screenshot](img/screen_1.png)
+|-----|-----|
 
-*Screenshot of Screen 2 - Recipe App*:
+| ![Screen 1 Screenshot](img/screen_1.png) | ![Screen 2 Screenshot](img/screen_2.png) |
 
-![Android Studio Installation Screenshot](img/screen_2.png)
 
 *Screenshot of Even or Odd Program - Even_or_Odd *:
 
