@@ -19,9 +19,9 @@
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - Create Recipe App
     - Screenshot of switching from two activities from clicking "View Recipe"
-    - Provide screenshot 1 of Even or Odd program
-    - Provide  screenshot 2 of Largest Number program
-    - Provide screenshot 3 of Arrays and Loops program
+    - Skillset 1: screenshot 1 of Even or Odd program
+    - Skillset 2: screenshot 2 of Largest Number program
+    - Skillset 3: screenshot 3 of Arrays and Loops program
     
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - 
