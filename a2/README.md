@@ -33,12 +33,12 @@ Three Parts:
 
 
 *Screenshot of Screen 1 running - Recipe App *:
-| Screen 1 Screenshot | Screen 2 Screenshot |
 
-|-----|-----|
+![Screen 1 Screenshot](img/screen_1.png) 
 
-| ![Screen 1 Screenshot](img/screen_1.png) | ![Screen 2 Screenshot](img/screen_2.png) |
+*Screenshot of Screen 2 running - Recipe App *:
 
+![Screen 2 Screenshot](img/screen_2.png) 
 
 *Screenshot of Even or Odd Program - Even_or_Odd *:
 
