@@ -16,15 +16,15 @@ public class Methods
 
 public static void getUserPhoneType() 
 {
-    String myStr="";
-    char myChar='';
+    String myStr = "";
+    char myChar = '';
     Scanner sc = new Scanner(System.in);
 
 
     System.out.println("Phone types: W or w (work), C or c (cell), H or h (home), N or n (none).");
     System.out.println("Enter phone type: ");
     myStr = sc.next().toLowerCase();
-    myChar = myStr().charAt(0);
+    myChar = myStr.charAt(0);
     
     System.out.println("\nif...else:");
 
@@ -60,5 +60,3 @@ public static void getUserPhoneType()
         System.out.println("Incorrect character entry.");
         break;
     }
-
-}
