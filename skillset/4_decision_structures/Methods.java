@@ -17,7 +17,7 @@ public class Methods
 public static void getUserPhoneType() 
 {
     String myStr = "";
-    char myChar ='';
+    char myChar ='w';
     Scanner sc = new Scanner(System.in);
 
 
