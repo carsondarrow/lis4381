@@ -17,7 +17,7 @@ public class Methods
 public static void getUserPhoneType() 
 {
     String myStr = "";
-    char myChar = '';
+    char myChar ='';
     Scanner sc = new Scanner(System.in);
 
 
@@ -60,3 +60,5 @@ public static void getUserPhoneType()
         System.out.println("Incorrect character entry.");
         break;
     }
+}
+}
