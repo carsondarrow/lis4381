@@ -11,16 +11,19 @@
 
 Three Parts:
 
-1. C
-2. M
-3. C
+1. Create a database 
+2. Create an ERD with 10 unique records 
+3. Design an applications that user inputs how many tickets they want and get a price 
 
 #### README.md file should include the following items:
 
-* C
-* S
-* S
-* B
+* Screenshot of ERD
+* Screenshot of running application's opening user interface
+* Screenshot of running application's processing user input
+* Screenshot of 10 records for each table 
+* Links to the following files:
+	a. a3.mwb
+	b. a3.sql
 
 > This is a blockquote.
 > 
