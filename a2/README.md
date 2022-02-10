@@ -31,14 +31,12 @@ Three Parts:
 #### Assignment Screenshots:
 
 
+### Screenshot Recipe App:
 
-*Screenshot of Screen 1 running - Recipe App *:
+| Recipe App #1 | Recipe App #2 |
+| -------------- | --------------|
+| ![Screen 1 Screenshot](img/screen_1.png) ) | ![Screen 2 Screenshot](img/screen_2.png) |
 
-![Screen 1 Screenshot](img/screen_1.png) 
-
-*Screenshot of Screen 2 running - Recipe App *:
-
-![Screen 2 Screenshot](img/screen_2.png) 
 
 ### Skillset #1 - #3:
 
