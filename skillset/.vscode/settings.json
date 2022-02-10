@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "4_decision_structures",
+        "2_largestNum",
         "1_even_odd",
-        "2_largestNum"
+        "5_random_number_generator/4_decision_structures"
     ],
     "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m"
 }

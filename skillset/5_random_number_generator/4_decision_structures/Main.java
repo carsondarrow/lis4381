@@ -3,6 +3,7 @@ class Main
      public static void main(String[] args) 
     {
        Methods.getRequirements();
-       Methods.DecisionStructures();
+       int[] userArray = Methods.createArray();
+       Methods.generatedpseudorandomintegers(userArray);
     }
 }
