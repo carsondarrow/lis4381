@@ -40,17 +40,11 @@ Three Parts:
 
 ![Screen 2 Screenshot](img/screen_2.png) 
 
-*Screenshot of Even or Odd Program - Even_or_Odd *:
+### Skillset #1 - #3:
 
-![Android Studio Installation Screenshot](img/Even_or_Odd.png)
-
-*Screenshot of largestNumProgram - largestNum *:
-
-![Android Studio Installation Screenshot](img/largestNum.png)
-
-*Screenshot of Arrays Loops Program - arrays_loops *:
-
-![Android Studio Installation Screenshot](img/Even_or_Odd.png)
+| Skillset #1 | Skillset #2 | Skillset #3 |
+| -------------- | --------------| -------------- |
+| ![Skillset #1](img/Even_or_Odd.png) | ![Skillset #2](img/largestNum.png) | ![Skillset #1](img/arrays_loops.png) 
 
 
 

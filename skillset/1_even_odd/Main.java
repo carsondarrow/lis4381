@@ -1,8 +1,6 @@
-public class Main 
+class Main 
 {
-
-
-    public static void main(String[] args) 
+     public static void main(String[] args) 
     {
        Methods.getRequirements();
        Methods.evaluateNumber();

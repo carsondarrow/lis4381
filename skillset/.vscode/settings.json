@@ -1,3 +1,8 @@
 {
-    "java.project.sourcePaths": []
+    "java.project.sourcePaths": [
+        "4_decision_structures",
+        "1_even_odd",
+        "2_largestNum"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m"
 }
