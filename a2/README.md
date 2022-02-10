@@ -44,7 +44,7 @@ Three Parts:
 
 | Skillset #1 | Skillset #2 | Skillset #3 |
 | -------------- | --------------| -------------- |
-| ![Skillset #1](img/Even_or_Odd.png) | ![Skillset #2](img/largestNum.png) | ![Skillset #1](img/arrays_loops.png) 
+| ![Skillset #1](img/Even_or_Odd.png) | ![Skillset #2](img/largestNum.png) | ![Skillset #1](img/arrays_loops.png) |
 
 
 
