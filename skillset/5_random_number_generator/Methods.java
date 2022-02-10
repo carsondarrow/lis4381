@@ -1,5 +1,5 @@
-import java.util.Random;
 import java.util.Scanner;
+import java.util.Random;
 
 public class Methods {
 
@@ -12,25 +12,18 @@ public class Methods {
 
       System.out.println();
 
-      int min, max;
-      Scanner sc = new Scanner(System.in);
-
-      System.out.print("Integer.MIN_VALUE: ");
-      min = sc.nextInt();
-      System.out.print("Integer.MAX_VLUE: ");
-      max = sc.nextInt();
+      System.out.println("Integer.MIN_VALUE: " + Integer.MIN_VALUE);
+      System.out.println("Integer.MAX_VLUE: " + Integer.MAX_VALUE);
       System.out.println();
    }
    
 
    public static int[] createArray()
     {
-      
-      int arraySize;
       Scanner sc = new Scanner(System.in);
-
+      int arraySize = 0;
+      
       System.out.println("Entered desired number of pseudorandom-generated integers (min 1): 5");
-      System.out.println("For loop:");
       arraySize = sc.nextInt();
 
       int yourArray[] = new int[arraySize];
@@ -42,10 +35,9 @@ public class Methods {
    {
    Random r = new Random();
 
-
    int i = 0;
    System.out.println("for loop");
-   for(i=0; i< myArray.length; i++);
+   for(i=0; i < myArray.length; i++)
    {
    System.out.println(r.nextInt());
    }
@@ -73,5 +65,6 @@ public class Methods {
    }
    while (i < myArray.length);
 
-   }
+
+}
 }
