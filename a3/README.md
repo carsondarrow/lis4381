@@ -1,16 +1,55 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
+> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
+>
+>Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
+>
 
-# Class number and name
+# LIs4381
 
-## Your name
+## Carson Darrow
 
-### Class Number Requirements:
+### Assignment 3 Requirements:
 
-*Course Work Links:*
+Three Parts:
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+1. C
+2. M
+3. C
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+#### README.md file should include the following items:
+
+* C
+* S
+* S
+* B
+
+> This is a blockquote.
+> 
+> This is the second paragraph in the blockquote.
+>
+
+
+#### Assignment Screenshots:
+
+
+### Screenshot:
+
+
+
+
+### Skillset #4 - #6:
+
+| Skillset #4 | Skillset #5 | Skillset #6 |
+| -------------- | --------------| -------------- |
+| ![Skillset #4](img/ss4.png) | ![Skillset #5](img/ss5.png) | ![Skillset #6](img/ss5.png) |
+
+
+
+
+#### Tutorial Links:
+
+*Bitbucket Tutorial - Station Locations:*
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/cbd19a/bitbucketstationlocations/ "Bitbucket Station Locations")
+
+*Tutorial: Request to update a teammate's repository:*
+[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
 
