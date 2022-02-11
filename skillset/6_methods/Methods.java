@@ -14,6 +14,7 @@ public class Methods {
       System.out.println("4) myValueReturning()");
       System.out.println("      a. Accepts two arguments: String and int");
       System.out.println("      b. Returns String contains first name and age.");
+      System.out.println();
    }
 
    public static void method() 
