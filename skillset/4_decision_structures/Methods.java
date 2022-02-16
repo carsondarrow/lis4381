@@ -62,11 +62,4 @@ public static void getUserPhoneType()
     }
 }
 
-
-public static void evaluateNumber() {
-}
-
-
-public static void largestNumber() {
-}
 }

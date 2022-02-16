@@ -38,38 +38,5 @@ public class Methods {
       System.out.println(str + " is " + age);
    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-public static void generatedpseudorandomintegers(int[] userArray) {
-}
-
-public static int[] createArray() {
-    return null;
-}
-
-public static void evaluateNumber() {
-}
-
-public static void largestNumber() {
-}
-
-public static void getUserPhoneType() {
-}
-
-
 }
       
