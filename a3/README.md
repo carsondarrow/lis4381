@@ -22,8 +22,8 @@ Three Parts:
 * Screenshot of running application's processing user input
 * Screenshot of 10 records for each table 
 * Links to the following files:
-*	a. ![a3.mwb](ERD/a3.mwb)
-*	b. ![a3.sql](ERD/a3.sql)
+	![a3.mwb](ERD/a3.mwb)
+	![a3.sql](ERD/a3.sql)
 
 > This is a blockquote.
 > 
