@@ -22,10 +22,13 @@ Three Parts:
 * Screenshot of running application's processing user input
 * Screenshot of 10 records for each table 
 * Links to the following files:
-### ERD:
-![a3.mwb](erd/a3.mwb)
-### ERD:
-![a3.sql](erd/a3.sql)
+-### ERD:
++
+ 	![a3.mwb](ERD/a3.mwb)
+-### ERD:
+
++##:
+ 	![a3.sql](ERD/a3.sql)
 
 > This is a blockquote.
 > 
