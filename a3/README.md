@@ -22,7 +22,7 @@ Three Parts:
 * Screenshot of running application's processing user input
 * Screenshot of 10 records for each table 
 * Links to the following files:
-	a3.mwb](ERD/a3.mwb)
+	![a3.mwb](ERD/a3.mwb)
  	![a3.sql](ERD/a3.sql)
 
 > This is a blockquote.
@@ -33,8 +33,11 @@ Three Parts:
 
 #### Assignment Screenshots:
 
+![Application Running](img/concertrun.gif)
+
 
 ### Screenshot:
+
 
 
 
