@@ -32,8 +32,9 @@ Three Parts:
 
 
 #### Application  Running:
-
-![video](img/concertrun.gif)
+<video width="50" height="70" controls
+<source ![video](img/concertrun.gif)>
+</video>
 
 
 
