@@ -33,7 +33,7 @@ Three Parts:
 
 #### Application  Running:
 
-<img src=file:///Users/carsondarrow/repos/lis4381/a3/img/concertrun.gif " width="200" height="400" />
+[![Concert App](img/concertrun.gif)](file:///Users/carsondarrow/repos/lis4381/a3/img/concertrun.gif)
 
 
 
