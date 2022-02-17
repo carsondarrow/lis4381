@@ -30,7 +30,7 @@ Three Parts:
 
 #### ERD:
 
-![ERD](img/ERD.png)
+![ERD](img/erd.png)
 
 
 #### Application  Running:
