@@ -21,14 +21,16 @@ Three Parts:
 * Screenshot of running application's opening user interface
 * Screenshot of running application's processing user input
 * Screenshot of 10 records for each table 
-* Links to the following files:
-	![a3.mwb](ERD/a3.mwb)
- 	![a3.sql](ERD/a3.sql)
+	
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
+
+#### ERD:
+
+![ERD](img/ERD.png)
 
 
 #### Application  Running:
