@@ -23,10 +23,10 @@ Three Parts:
 * Screenshot of 10 records for each table 
 
 * Link to a3.mwb
-[a3.mwb] (docs/a3.mwb)
+[a3.mwb](docs/a3.mwb)
 
 * Link to a3.sql
-[a3.sql]  (docs/a3.sql)
+[a3.sql](docs/a3.sql)
 	
 
 > This is a blockquote.
