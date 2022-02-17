@@ -21,6 +21,11 @@ Three Parts:
 * Screenshot of running application's opening user interface
 * Screenshot of running application's processing user input
 * Screenshot of 10 records for each table 
+
+### a3:
+![a3.mwb] (docs/a3.mwb)
+### a3:
+![a3.sql]  (docs/a3.sql)
 	
 
 > This is a blockquote.
