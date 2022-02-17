@@ -33,7 +33,7 @@ Three Parts:
 
 #### Application  Running:
 
-![video](img/concertrun.gif  {250x250})
+![video](img/concertrun.gif)
 
 
 
