@@ -31,11 +31,11 @@ Three Parts:
 >
 
 
-#### Assignment Screenshots:
+#### Application  Running:
 
-| Application Running | ERD |
-| --------------- | ------------- |
-| ![Application Running](img/concertrun.gif) | ![ERD Screenshot](erd/ERD.png) |
+<img src=file:///Users/carsondarrow/repos/lis4381/a3/img/concertrun.gif " width="200" height="400" />
+
+
 
 
 ### Screenshot:
