@@ -4,7 +4,7 @@
   <chain id="chain0" title="Shotcut version 22.01.30" out="00:00:27.000">
     <property name="length">00:00:27.042</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/carsondarrow/repos/lis4381/a3/img/concertrun.mp4</property>
+    <property name="resource">concertrun.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
