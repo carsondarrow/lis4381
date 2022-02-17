@@ -42,12 +42,7 @@ Three Parts:
 
 #### Application  Running:
 
-![video](img/concertrun.mlt)
-
-
-
-
-
+![video](img/concertrun.gif)
 
 
 ### Screenshot:
