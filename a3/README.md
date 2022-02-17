@@ -33,7 +33,9 @@ Three Parts:
 
 #### Application  Running:
 
-[![Concert App](img/concertrun.gif width="40" height="70")
+![video](img/concertrun.gif = 250x250)
+
+
 
 
 
