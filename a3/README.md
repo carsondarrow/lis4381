@@ -32,9 +32,9 @@ Three Parts:
 
 
 #### Application  Running:
-<video width="50" height="70" controls
-<source ![video](img/concertrun.gif)>
-</video>
+
+![video](img/concertrun.gif)
+
 
 
 
