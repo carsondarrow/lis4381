@@ -35,7 +35,7 @@ Three Parts:
 
 | Application Running |
 | -------------- |
-| (img/concertrun.gif) |
+| ![Application Running](img/concertrun.gif) |
 
 
 ### Screenshot:
