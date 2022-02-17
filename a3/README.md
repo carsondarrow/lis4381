@@ -46,6 +46,15 @@ Three Parts:
 
 ### Screenshot:
 
+### Pet Store:
+
+![Pet Store](img/petstore.png)
+
+### Customer: 
+![Customer](img/customer.png)
+
+#### Pet:
+![Pet](img/pet.png)
 
 
 
