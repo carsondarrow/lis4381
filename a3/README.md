@@ -34,7 +34,7 @@ Three Parts:
 #### Assignment Screenshots:
 
 | Application Running |
-| -------- |
+| --------------------------- |
 | ![Application Running](img/concertrun.gif) |
 
 
