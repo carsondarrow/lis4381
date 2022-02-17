@@ -33,9 +33,9 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-| Application Running |
+| Application Running | ERD |
 | --------------------------- |
-| ![Application Running](img/concertrun.gif) |
+| ![Application Running](img/concertrun.gif) | ![ERD Screenshot](erd/ERD.png) |
 
 
 ### Screenshot:
