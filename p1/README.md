@@ -38,7 +38,7 @@ Three Parts:
 
 | Business Card Front | Business Card Info |
 | -------------- | --------------|
-| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/img/businesscardinfo.png) |
+| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo.png) |
 
 
 
