@@ -47,9 +47,8 @@
     - 
     - 
     
-P 1. [p1 README.md](p1/README.md "My p1 README.md file")
-    -
-    -
+P1. [p1 README.md](p1/README.md "My p1 README.md file")
+   
   
     
  
