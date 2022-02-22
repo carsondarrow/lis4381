@@ -30,10 +30,16 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of Business Card running*:
+*Video of Business Card running*:
 
 ![Business Card Video](img/businesscard_3RdR4Vg5.mp4)
 
+*Screenshot of Business Card running*:
+| Business Card Front | Business Card Info |
+
+|-----|-----|
+
+| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo.png) |
 
 
 
