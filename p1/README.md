@@ -37,9 +37,7 @@ Three Parts:
 ### Screenshot of Business Card running:
 
 | Business Card Front | Business Card Info |
-
 | -------------- | --------------|
-
 | ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/img/businesscardinfo.png) |
 
 
