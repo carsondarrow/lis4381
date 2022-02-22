@@ -45,9 +45,9 @@
     - 
     
     
-P1. [p1 README.md](p1/README.md "My p1 README.md file")
+6. [P1 README.md](p1/README.md "My p1 README.md file")
 
-P2. [p2 README.md](p2/README.md "My p2 README.md file")
+7. [P2 README.md](p2/README.md "My p2 README.md file")
 
    
   
