@@ -11,17 +11,16 @@
 
 Three Parts:
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development installations
-3. Chapter Questions (Chs 1, 2)
+1. Create My Own Business Card
+2. Develop Understanding on How to Navigate Multiple Pages
+3. Chapter Questions (Chs 7, 8)
 
 #### README.md file should include the following items:
 
-* Screenshot of Apache Installation 
-* Screenshot of running java Hello
-* Screenshot of running Android Studio - My First App
-* git commands with short descriptions
-* Bitbucket repo links
+* Course title, Name, Assignment Requirements
+* Screenshot of running application’s first user interface
+* Screenshot of running application’s second user interface
+
 
 > This is a blockquote.
 > 
