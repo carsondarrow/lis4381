@@ -32,7 +32,7 @@ Three Parts:
 
 *Screenshot of Business Card running*:
 
-![Business Card Video](doc/businesscard.webm)
+![Business Card Video](doc/businesscard.gif)
 
 
 
