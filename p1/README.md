@@ -31,13 +31,13 @@ Three Parts:
 
 *Video of Business Card running*:
 
-![Business Card Video](img/businesscard_3RdR4Vg5.mp4)
+![Business Card Video](img/Businesscard.mp4)
 
 ### Screenshot of Business Card running:
 
 | Business Card Front | Business Card Info |
 | -------------- | --------------|
-| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo.png) |
+| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo2.png) |
 
 
 
