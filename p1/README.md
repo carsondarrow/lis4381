@@ -31,7 +31,7 @@ Three Parts:
 
 *Video of Business Card running*:
 
-![Business Card Video](img/Businesscard.mp4)
+![Business Card Video](img/businesscardvideocropped.mp4)
 
 ### Screenshot of Business Card running:
 
