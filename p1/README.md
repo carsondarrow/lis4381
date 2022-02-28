@@ -39,7 +39,7 @@ Three Parts:
 | -------------- | --------------|
 | ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo2.png) |
 
-ddd
+ddddejd
 
 #### Tutorial Links:
 
