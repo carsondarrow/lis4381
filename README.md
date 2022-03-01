@@ -46,6 +46,10 @@
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
+    - Create Business Profile Card
+    - Skillset 7: Random Number Generator Validation
+    - Skillset 8: Three Largest Number
+    - Skillset 9: Array Runtime Data Validation
 
 7. [P2 README.md](p2/README.md "My p2 README.md file")
 
