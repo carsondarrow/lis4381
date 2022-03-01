@@ -19,7 +19,6 @@ public class Methods {
 
    public static void method() 
    {
-      String name;
       int age;
       Scanner sc = new Scanner(System.in);
 

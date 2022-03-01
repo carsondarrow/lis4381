@@ -39,6 +39,10 @@ Three Parts:
 | -------------- | --------------|
 | ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo2.png) |
 
+| Skillset 7 | Skillset 8 | Skillset 9 |
+| -------------- | --------------| ------------- |
+| ![Skillset 7](img/ss7.png) | ![Skillset 8](img/ss8.png) | ![Skillset 9](img/ss9.png) |
+
 
 
 #### Tutorial Links:
