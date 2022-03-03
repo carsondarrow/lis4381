@@ -44,12 +44,3 @@ Three Parts:
 | ![Skillset 7](img/ss7.png) | ![Skillset 8](img/ss8.png) | ![Skillset 9](img/ss9.png) |
 
 
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/cbd19a/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
-
