@@ -38,33 +38,12 @@ Three Parts:
 ![Screenshot of passed validation](img/correct.png)
 
 
-#### Application  Running:
 
+### Skillset #10 - #12:
 
-
-![video](img/concertapp.mov)
-
-
-### Screenshot:
-
-### Pet Store:
-
-![Pet Store](img/petstore.png)
-
-### Customer: 
-![Customer](img/customer.png)
-
-#### Pet:
-![Pet](img/pet.png)
-
-
-
-
-### Skillset #4 - #6:
-
-| Skillset #4 | Skillset #5 | Skillset #6 |
+| Skillset #10 | Skillset #11 | Skillset #12 |
 | -------------- | --------------| --------------- |
-| ![Skillset #4](img/ss4.png) | ![Skillset #5](img/ss5.png) | ![Skillset #6](img/ss6.png) |
+| ![Skillset #10](img/ss10.png) | ![Skillset #11](img/ss11.png) | ![Skillset #12](img/ss12.png) |
 
 
 
