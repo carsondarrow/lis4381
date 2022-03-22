@@ -41,9 +41,18 @@ Three Parts:
 
 ### Skillset #10 - #12:
 
-| Skillset #10 | Skillset #11 | Skillset #12 |
-| -------------- | --------------| --------------- |
-| ![Skillset #10](img/ss10.png) | ![Skillset #11](img/ss11.png) | ![Skillset #12](img/ss12.png) |
+| Skillset #10 |
+| -------------- |
+| ![Skillset #10](img/ss10.png) |
+
+| Skillset #11 |
+| -------------- |
+![Skillset #11](img/ss11.png) | 
+
+| Skillset #12 |
+![Skillset #12](img/ss12.png) |
+
+
 
 
 
