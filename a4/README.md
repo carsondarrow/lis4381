@@ -34,8 +34,10 @@ Three Parts:
 ###### Main Page
 ![Main Page](img/mainpage.png)
 
+###### Failed Validation Page
 ![Screenshot of failed validation](img/failure.png)
 
+###### Passed Validation Page
 ![Screenshot of passed validation](img/correct.png)
 
 
