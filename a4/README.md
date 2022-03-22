@@ -33,6 +33,9 @@ Three Parts:
 
 ![Main Page](img/mainpage.png)
 
+![Screenshot of failed validation](img/failure.png)
+
+![Screenshot of passed validation](img/correct.png)
 
 
 #### Application  Running:
