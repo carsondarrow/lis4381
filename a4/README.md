@@ -23,16 +23,15 @@ Three Parts:
 * Links to local lis4381 web app: a) [Online Portfolio](http://localhost:8080/repos/lis4381/index.php)
 
 
-	
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
 
-#### Online Portfolio :
+#### Assignment Screenshots :
 
-![ERD](img/ERD.png)
+![Main Page](img/mainpage.png)
 
 
 
