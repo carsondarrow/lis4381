@@ -31,7 +31,7 @@ Three Parts:
 
 #### Assignment Screenshots :
 
-## Main Page
+###### Main Page
 ![Main Page](img/mainpage.png)
 
 ![Screenshot of failed validation](img/failure.png)
