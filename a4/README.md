@@ -50,6 +50,7 @@ Three Parts:
 ![Skillset #11](img/ss11.png) | 
 
 | Skillset #12 |
+| -------------- |
 ![Skillset #12](img/ss12.png) |
 
 
