@@ -20,7 +20,7 @@ Three Parts:
 * Screenshot of online portfolio main page
 * Screenshot of failed validation
 * Screenshot of passed validation
-* Links to local lis4381 web app: a) [http://localhost:8080/repos/lis4381/index.php]("Online Portfolio")
+* Links to local lis4381 web app: a) [Online Portfolio](http://localhost:8080/repos/lis4381/index.php)
 
 
 	
