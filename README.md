@@ -53,12 +53,3 @@
     - Skillset 9: Array Runtime Data Validation
 
 7. [P2 README.md](p2/README.md "My p2 README.md file")
-
-   
-  
-    
- 
-    
- 
-    
- 
