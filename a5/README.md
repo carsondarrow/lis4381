@@ -29,18 +29,18 @@ Three Parts:
 > This is the second paragraph in the blockquote.
 >
 
-#### Assignment Screenshots :
+## Assignment Screenshots :
 
 ### Failed Validation Page 1
 ![Invalid](img/invalid.png)
 
-###### Failed Validation Page 2
+### Failed Validation Page 2
 ![Failed Validation](img/failed.png)
 
-###### Passed Validation Page 1
+### Passed Validation Page 1
 ![Valid](img/valid.png)
 
-###### Passed Validation Page 2
+### Passed Validation Page 2
 ![Passed](img/passed.png)
 
 
