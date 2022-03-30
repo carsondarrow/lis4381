@@ -3,7 +3,9 @@ require_once "global/connection.php";
 $query = "SELECT * FROM petstore ORDER BY pst_id";
 $statement = $db->prepare($query);
 $statement->execute();
-?>
+?><!DOCTYPE html>
+<html lang="en">
+<head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,15 +13,40 @@ $statement->execute();
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-	<meta name="author" content="Meredith McNulty">
+	<meta name="author" content="Carson Darrow">
 	<link rel="icon" href="favicon.ico">
 
-		<title>LIS4381 - Assignment5</title>
-		<?php include_once("../css/include_css_data_tables.php"); ?>
+		<title>lis4381 - Assignment5</title>
+		<?php include_once("../css/include_css.php"); ?>
 </head>
+
+<style>
+
+html
+{
+	height: 100%;
+}
+	body 
+{
+	background-image: linear-gradient(#72A0C1, #E6F7FF, #72A0C1);
+	background-image: linear-gradient(to right, #72A0C1, #E6F7FF, #72A0C1);
+}
+
+div
+{
+	color: #000;
+}
+
+form
+{
+	padding: 5px;
+}
+
+</style>
+
 <body>
 
-	<?php include_once("../global/nav.php"); ?>
+<?php include_once("../global/nav.php"); ?>
 	
 	<div class="container-fluid">
 		 <div class="starter-template">
@@ -32,7 +59,7 @@ $statement->execute();
 <a href="add_petstore.php">Add Pet Store</a>
 <br />
 
- <div class="table-responsive">
+<div class="table-responsive">
 	 <table id="myTable" class="table table-striped table-condensed" >
 	 	<thead>
 	 		<tr>
@@ -50,8 +77,7 @@ $statement->execute();
 	 			<th>&nbsp;</th>
 	 		</tr>
 	 	</thead>
-
-	 	<?php
+		 <?php
 	 	$result = $statement->fetch();
 	 	while($result != null)
 	 	{
@@ -96,17 +122,17 @@ $statement->execute();
 	 </table>
  </div> <!-- end table-responsive -->
  	
-<?php include_once "global/footer.php"; ?>
+ <?php include_once "global/footer.php"; ?>
 
-			</div> <!-- end starter-template -->
-  </div> <!-- end container -->
+</div> <!-- end starter-template -->
+</div> <!-- end container -->
 
-	<!-- Bootstrap JavaScript
-	================================================== -->
-	<!-- Placed at end of document so pages load faster -->
-		<?php include_once("../js/include_js_data_tables.php"); ?>	
+<!-- Bootstrap JavaScript
+================================================== -->
+<!-- Placed at end of document so pages load faster -->
+<?php include_once("../js/include_js_data_tables.php"); ?>
 
-		<script type="text/javascript">
+<script type="text/javascript">
 	 $(document).ready(function(){
 		 $('#myTable').DataTable({
 				 responsive: true,				 
