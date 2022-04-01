@@ -45,11 +45,11 @@ Three Parts:
 
 
 
-### Skillset #10 - #12:
+### Skillset #13 - #15:
 
-| Skillset #10 |
+| Skillset #13 |
 | -------------- |
-| ![Skillset #10](img/ss10.png) |
+| ![Skillset #13](img/ss13.png) |
 
 | Skillset #11 |
 | -------------- |
