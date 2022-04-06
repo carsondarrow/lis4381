@@ -53,7 +53,8 @@ Three Parts:
 
 | Skillset #14 |
 | -------------- |
-![Skillset #14](img/ss14.png) | 
+![Skillset #14](img/ss14 addition.png) | 
+![Skillset #14](img/ss14 addition fail.png) | 
 
 | Skillset #15 |
 | -------------- |
