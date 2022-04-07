@@ -60,8 +60,8 @@ Three Parts:
 
 | Skillset #15 |
 | -------------- |
-![Skillset #12](img/ss12.png) |
-
+![Skillset #15](img/ss15 index.png) |
+![Skillset #15](img/ss15 process.png) |
 
 
 
