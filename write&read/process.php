@@ -61,6 +61,7 @@ function test_input($data) {
 						echo $comment;
 						echo "<br><br><br>";
 						?>
+						
 		<?php include_once "global/footer.php"; ?>
 		</div>
 </div> <!-- end table-responsive -->

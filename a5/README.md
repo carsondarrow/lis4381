@@ -7,19 +7,19 @@
 
 ## Carson Darrow
 
-### Assignment 4 Requirements:
+### Assignment 5 Requirements:
 
 Three Parts:
 
-1. Create an online portfolio web app
-2. Make sure all links are functional
-3. Provide screenshots of online portfolio
+1. Develop server-side validation of a form in php
+2. Develop a form that adds data into a database
+3. Chapter Questions (chs. 11, 12, & 19)
+4. Skill Set 13-15
 
 #### README.md file should include the following items:
 
-* Screenshot of online portfolio main page
-* Screenshot of failed validation
-* Screenshot of passed validation
+* Screenshot of index.php for the data in petstore
+* Screenshot of server-side data validation
 * Links to local lis4381 web app: a) [Online Portfolio](http://localhost:8080/repos/lis4381/a5/index.php)
 
 
