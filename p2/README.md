@@ -48,6 +48,9 @@ Four Parts:
 ### Successful Delete Record 
 ![Successful Delete Record](img/success delete record.png)
 
+### RSS Feed
+![RSS](img/rss feed.png)
+
 
 
 
