@@ -37,7 +37,7 @@ Three Parts:
 6. git pull - Fetch from and integrate with another repository or local branch 
 7. git version - Displays version information about Git
 
-#### Assignment Screenshots:
+#### Assignment Screenshots: Test
 
 *Screenshot of Apache running http://localhost:8080/phpinfo.php*:
 
