@@ -8,7 +8,7 @@
 		<meta name="author" content="Carson Darrow">
 		<link rel="icon" href="favicon.ico">
 
-		<title>Creative Online Portfolio TEST</title>
+		<title>Creative Online Portfolio</title>
 
 		<?php include_once("css/include_css.php"); ?>	
 
