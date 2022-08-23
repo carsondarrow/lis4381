@@ -32,10 +32,11 @@
     - Link a3 mwb and sql files
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - T
-    - T
-    - 
-    - 
+    - Create My Own Local Website
+    - Added my Assignments to the Proper Tabs
+    - Skillset 10: Array List
+    - Skillset 11: Alpha Numeric Special
+    - Skillset 12: Temperature Conversion
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
@@ -52,12 +53,3 @@
     - Skillset 9: Array Runtime Data Validation
 
 7. [P2 README.md](p2/README.md "My p2 README.md file")
-
-   
-  
-    
- 
-    
- 
-    
- 
