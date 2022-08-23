@@ -36,7 +36,6 @@ Three Parts:
 5. git push - Update remote refs along with associated objects
 6. git pull - Fetch from and integrate with another repository or local branch 
 7. git version - Displays version information about Git
-8. test
 
 #### Assignment Screenshots:
 
