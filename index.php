@@ -8,22 +8,12 @@
 		<meta name="author" content="Carson Darrow">
 		<link rel="icon" href="favicon.ico">
 
-		<title>Creative h Portfolio</title>
+		<title>Creative Portfolio</title>
 
 		<?php include_once("css/include_css.php"); ?>	
 
 		<!-- Carousel styles -->
 		<style type="text/css">
-			html
-			{
-				height: 100%;
-			}
-			body 
-			{
-				background-image: linear-gradient(to bottom right, #72A0C1, #72A0C1, #72A0C1);
-				background-image: linear-gradient(to right,#72A0C1, #E6F7FF, #72A0C1);
-			}
-
 		 h2
 		 {
 			 margin: 0;     
@@ -34,29 +24,33 @@
 		 }
 		 h3
 		 {
+			 margin: 100px;
 			 text-shadow: 1px 1px #000000;
 			 color: #982932;
 		 }
 		 h4
 		 {
-			padding: 30px;
+			margin: 40px;
 			text-shadow: 1px 1px #000000;
 			font-size: 25px;
 			 color: #982932;
 		 }
 		 h5
 		 {
+			margin: 225px;
 			text-shadow: 2px 1px #000000;
 			font-size: 25px;
 			 color: #982932; 
 		 }
 		 a.Info
 		 {
-			margin-Bottom: 50px;
+			margin-Top: 25px;
 			-webkit-appearance: button;
 			 -moz-appearance: button;
 			 appearance: button;
 			 
+			 background-color: #982932;
+			 background-clip: content-box;
 			 padding: 5px;
 			 color: #982932;
 		 }
@@ -92,7 +86,7 @@
 					<div
 						id="myCarousel"
 								class="carousel"
-								data-interval="3000"
+								data-interval="4000"
 								data-pause="hover"
 								data-wrap="true"
 								data-keyboard="true"			
@@ -107,12 +101,12 @@
 						<!-- Carousel items -->
 						<div class="carousel-inner">
 
-							
+							<!-- -Note: you will need to modify the code to make it work with *both* text and images.  -->
 							<div class="active item" style="background: url(img/bitbucket.png); background-size: cover;">
 								<div class="container">
 									<div class="carousel-caption">
 										<h3>Bitbucket Repository with Projects</h3>
-										<a href="https://bitbucket.org/cbd19a/lis4381/src/" class="Info">Click for Info</a>
+										<a href="https://bitbucket.org/cbd19a/lis4381/src/" class="Info">Learn More</a>
 										<p></p>
                         </div>
                       </div>
@@ -120,17 +114,17 @@
               
 							<div class="item" style="background: url(img/linkedin.png); background-size: cover;">
 								<div class="carousel-caption">
-									<h3>Linkedin: Carson Darrow</h4>
-									<a href="https://www.linkedin.com/in/carson-darrow-280823199" class="Info">Click for Info</a>
+									<h4>Linkedin: Carson Darrow</h4>
+									<a href="https://www.linkedin.com/in/carson-darrow-280823199" class="Info">Learn More</a>
 									<p>  </p>								
 								</div>
 							</div>
 
 							<div class="item" style="background: url(img/github.png); background-size: cover;">
 								<div class="carousel-caption">
-									<h4>Github Main</h5>
+									<h5>Github Main</h5>
 									<p></p>
-									<a href="https://github.com" class="Info">Click for Info</a>							
+									<a href="https://github.com" class="Info">Learn More</a>							
 								</div>
 							</div>
 

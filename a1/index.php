@@ -9,6 +9,7 @@
     <link rel="icon" href="favicon.ico">
 
 		<title>CD - Assignment1</title>		
+<<<<<<< HEAD
 		<?php include_once("../css/include_css.php"); ?>	
 		<style>
 
@@ -33,6 +34,9 @@
 		}
 
 		</style>
+=======
+		<?php include_once("../css/include_css.php"); ?>			
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
   </head>
 
   <body>
@@ -45,6 +49,7 @@
 					<?php include_once("global/header.php"); ?>	
 				</div>
 				<p class="text-justify">
+<<<<<<< HEAD
 					<strong>Description:</strong> <br/>
 							* Screenshot of JDK Installation <br/>
 							* Screenshot of Andoird Studio Installation <br/>
@@ -53,13 +58,25 @@
 
 				<h4>Java Installation</h4>
 				<img src="img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation" style="width:70%">
+=======
+					<strong>Description:</strong> The expected norm...(*be sure* to copy the assignment requirements here!) 
+				</p>
+
+				<h4>Java Installation</h4>
+				<img src="img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation">
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 
 				<h4>Android Studio Installation</h4>
 				<img src="img/android1.png" class="img-responsive center-block" alt="Android Studio Installation">
 
 				<h4>Apache Installation</h4>
+<<<<<<< HEAD
 				<img src="img/apache.png" class="img-responsive center-block" alt="Apache Installation" style="width:70%">
 				<img src="img/apache2.png" class="img-responsive center-block" alt="Apache Installation" style="width:70%">
+=======
+				<img src="img/apache.png" class="img-responsive center-block" alt="Apache Installation">
+				<img src="img/apache2.png" class="img-responsive center-block" alt="Apache Installation">
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 				
 				<?php include_once "global/footer.php"; ?>
 

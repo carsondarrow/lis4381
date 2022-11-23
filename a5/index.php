@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 //https://datatables.net/examples/basic_init/table_sorting.html
 //database connection code goes here...
 require_once"../global/connection.php";
@@ -9,17 +10,34 @@ $statement =$db->prepare($query);
 $statement->execute();
 
 ?>
+=======
+require_once "global/connection.php";
+$query = "SELECT * FROM petstore ORDER BY pst_id";
+$statement = $db->prepare($query);
+$statement->execute();
+?><!DOCTYPE html>
+<html lang="en">
+<head>
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
 	<meta name="description" content="My online portfolio which showcases my skills and projects using various softwares, languages, and tools.">
 	<meta name="author" content="Carson Darrow">
 	<link rel="icon" href="favicon1.ico">
 
 		<title>LIS4381 - Assignment5</title>
+=======
+	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
+	<meta name="author" content="Carson Darrow">
+	<link rel="icon" href="favicon.ico">
+
+		<title>lis4381 - Assignment5</title>
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 		<?php include_once("../css/include_css.php"); ?>
 </head>
 
@@ -49,25 +67,33 @@ form
 
 <body>
 
+<<<<<<< HEAD
 	<?php include_once("../global/nav.php"); ?>
+=======
+<?php include_once("../global/nav.php"); ?>
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 	
 	<div class="container-fluid">
 		 <div class="starter-template">
 						<div class="page-header">
 							<?php include_once("global/header.php"); ?>	
 						</div>
+<<<<<<< HEAD
 						<p class="text-left">
 					<strong>Description:</strong>
 					<ul>
 					<li class="text-left">Basic server-side validation</li>
 					<li class="text-left">Displays user-entered data, and permits users to add data</li>
 									</p>
+=======
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 
 						<h2>Pet Stores</h2>
 
 <a href="add_petstore.php">Add Pet Store</a>
 <br />
 
+<<<<<<< HEAD
  <div class="table-responsive">
 	 <table id="myTable" class="table table-striped table-condensed" >
 	  <thead>
@@ -153,6 +179,82 @@ form
 		<?php //include_once("../js/include_js.php"); ?>	
 
 		<script type="text/javascript">
+=======
+<div class="table-responsive">
+	 <table id="myTable" class="table table-striped table-condensed" >
+	 	<thead>
+	 		<tr>
+	 			<th>Name</th>
+	 			<th>Street</th>
+	 			<th>City</th>
+	 			<th>State</th>
+	 			<th>Zip</th>
+	 			<th>Phone</th>
+	 			<th>Email</th>
+	 			<th>URL</th>
+	 			<th>YTD Sales</th>
+	 			<th>Notes</th>
+	 			<th>&nbsp;</th>
+	 			<th>&nbsp;</th>
+	 		</tr>
+	 	</thead>
+		 <?php
+	 	$result = $statement->fetch();
+	 	while($result != null)
+	 	{
+
+	 	?>
+	 	<tr>
+		 	<td><?php echo htmlspecialchars($result['pst_name']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_street']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_city']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_state']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_zip']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_phone']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_email']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_url']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_ytd_sales']); ?></td>
+		 	<td><?php echo htmlspecialchars($result['pst_notes']); ?></td>
+
+		 	<td>
+		 		<form
+		 			onsubmit="return confirm('Do you really want to delete records?')";
+		 			action="delete_petstore.php"
+		 			method="post"
+		 			id="delete_petstore">
+		 			<input type="hidden" name="pst_id" value="<?php echo $result['pst_id']; ?>" />
+		 			<input type ="submit" value="Delete" />
+		 		</form>
+		 	</td>
+
+		 	<td>
+			 	<form action="edit_petstore.php" method="post" id="edit_petstore">
+			 		<input type="hidden" name="pst_id" value="<?php echo $result['pst_id']; ?>" />
+			 		<input type ="submit" value="Edit" />
+			 	</form>
+		 	</td>
+	 	</tr>
+	 	<?php
+	 	$result = $statement->fetch();
+	 	}
+	 	$statement->closeCursor();
+	 	$db = null;
+	 	?>
+	 </table>
+ </div> <!-- end table-responsive -->
+ 	
+ <?php include_once "global/footer.php"; ?>
+
+</div> <!-- end starter-template -->
+</div> <!-- end container -->
+
+<!-- Bootstrap JavaScript
+================================================== -->
+<!-- Placed at end of document so pages load faster -->
+<?php include_once("../js/include_js_data_tables.php"); ?>
+
+<script type="text/javascript">
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 	 $(document).ready(function(){
 		 $('#myTable').DataTable({
 				 responsive: true,				 
@@ -165,8 +267,13 @@ form
 	 //permit sorting (i.e., no sorting on last two columns: delete and edit)
     "columns":
 		[
+<<<<<<< HEAD
       null,
       null,
+=======
+      	null,
+      	null,
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 		null,
 		null,
 		null,
@@ -183,4 +290,8 @@ form
 	</script>
 
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607

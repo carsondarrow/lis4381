@@ -40,10 +40,11 @@
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - 
-    -
-    -   
-    - 
+    - Develop sever-side validation of a form in php
+    - Develops a form that adds data into a database
+    - Skillet 13: Sphere Volume Calculator
+    - Skillset 14: PHP Simple Calculator
+    - Skillset 15: PHP Write/Read Files
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
@@ -53,3 +54,8 @@
     - Skillset 9: Array Runtime Data Validation
 
 7. [P2 README.md](p2/README.md "My p2 README.md file")
+<<<<<<< HEAD
+=======
+    - Add edit and delete functionality to the pet store database
+    - Provide screenshots for the pet store, editing a record in the pet store, and creating an RSS feed
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607

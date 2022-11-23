@@ -11,6 +11,7 @@
 	<title>lis4381 - Assignment4</title>
 		<?php include_once("../css/include_css.php"); ?>
 </head>
+<<<<<<< HEAD
 
 <style>
 html
@@ -30,6 +31,8 @@ div
 </style>
 
 
+=======
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 <body>
 
 	<?php include_once("../global/nav.php"); ?>
@@ -299,6 +302,7 @@ div
 									},
 							},
 					},
+<<<<<<< HEAD
 
 					notes: {
 							validators: {
@@ -312,6 +316,8 @@ div
 							},
 					},
 					
+=======
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 		
 	}
 
