@@ -8,7 +8,11 @@
 	<meta name="author" content="Carson Darrow">
 	<link rel="icon" href="favicon.ico">
 
+<<<<<<< HEAD
+	<title>LIS4381 - Assignment4</title>
+=======
 	<title>lis4381 - Assignment4</title>
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 		<?php include_once("../css/include_css.php"); ?>
 </head>
 
