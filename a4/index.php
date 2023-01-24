@@ -11,6 +11,28 @@
 	<title>lis4381 - Assignment4</title>
 		<?php include_once("../css/include_css.php"); ?>
 </head>
+<<<<<<< HEAD
+
+<style>
+html
+{
+	height: 100%;
+}
+	body 
+{
+	background-image: linear-gradient(#72A0C1, #E6F7FF, #72A0C1);
+	background-image: linear-gradient(to right, #72A0C1, #E6F7FF, #72A0C1);
+}
+
+div
+{
+	color: #000;
+}
+</style>
+
+
+=======
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 <body>
 
 	<?php include_once("../global/nav.php"); ?>
@@ -280,6 +302,22 @@
 									},
 							},
 					},
+<<<<<<< HEAD
+
+					notes: {
+							validators: {
+									//notEmpty: {
+											//message: 'YTD sales is required'
+									//},
+									regexp: {
+										regexp: /^[\w\-\s]+$/,		
+									//message: 'YTD sales can only contain numbers and decimal point'
+									},
+							},
+					},
+					
+=======
+>>>>>>> 08cef396507f77cf04a9a0c9541054cc8565f607
 		
 	}
 
