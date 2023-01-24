@@ -8,7 +8,7 @@
 		<meta name="author" content="Carson Darrow.">
     <link rel="icon" href="favicon.ico">
 
-		<title>CD - Assignment1</title>		
+		<title>CD - Assignment</title>		
 		<?php include_once("../css/include_css.php"); ?>			
   </head>
 
