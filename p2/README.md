@@ -37,19 +37,19 @@ Four Parts:
 ![Edit Petstore](img/EditPetstore.png)
 
 ### Failed Validation
-![Failed Validation](img/failed validation.png)
+![Failed Validation](img/failed_validation.png)
 
 ### Passed Validation 
-![Passed](img/passed validation.png)
+![Passed](img/passed_validation.png)
 
 ### Delete Record Prompt 
-![Delete Record](img/delete record prompt.png)
+![Delete Record](img/delete_record_prompt.png)
 
 ### Successful Delete Record 
-![Successful Delete Record](img/success delete record.png)
+![Successful Delete Record](img/success_delete_record.png)
 
 ### RSS Feed
-![RSS](img/rss feed.png)
+![RSS](img/rss_feed.png)
 
 
 
